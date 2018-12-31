@@ -15,6 +15,9 @@ TIMEZONE = 'US/Eastern'
 
 DEFAULT_LANG = u'en'
 
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['events']
+
 # Blogroll
 LINKS = ()
 
