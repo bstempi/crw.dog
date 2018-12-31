@@ -1,0 +1,6 @@
+env/
+.idea/
+output/
+cache/
+*.pyc
+.DS_Store
